@@ -46,9 +46,9 @@
 ## Models Used & Results
 | Model | Accuracy | Notes |
 |---|---|---|
-| Logistic Regression | ~XX% | Linear baseline model with strong interpretability |
-| Random Forest (n_estimators=100) | ~XX% | Ensemble model, also used for feature importance |
-| K-Nearest Neighbors (k=5) | ~XX% | Distance-based classifier using standardized features |
+| Logistic Regression | ~70.69% | Linear baseline model with strong interpretability |
+| Random Forest (n_estimators=100) | ~70.69% | Ensemble model, also used for feature importance |
+| K-Nearest Neighbors (k=5) | ~80.33% | Distance-based classifier using standardized features |
 
 Note: Replace ~XX% with exact values after running the script.
 
