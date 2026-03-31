@@ -30,14 +30,6 @@
   - roc_curve.png
   - age_vs_target_boxplot.png
 
-## PPT Structure (as per course requirement)
-1. Problem Definition
-2. Data Collection
-3. Data Preprocessing
-4. Algorithm Implementation
-5. Result Analysis
-6. Conclusion & Future Work
-
 ## How to Run
 1. Clone the repository
 2. Install dependencies:
